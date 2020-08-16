@@ -1,1 +1,1 @@
-![splash screen](/splash.gif)
+![splash screen](splash.gif)
