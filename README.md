@@ -1,2 +1,1 @@
-<iframe src="https://moidhasan.herokuapp.com">
-</iframe>
+![splash screen](/splash.gif)
