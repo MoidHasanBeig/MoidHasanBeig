@@ -1,1 +1,1 @@
-![splash screen](https://media.giphy.com/media/Velk65B2ZHnIjgTN0d/giphy.gif)
+![splash screen](https://media.giphy.com/media/VcBo99vBvSuT1EVHVm/giphy.gif)
